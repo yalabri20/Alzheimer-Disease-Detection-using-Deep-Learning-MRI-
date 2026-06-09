@@ -145,4 +145,8 @@ python app.py
 
 ## 👨‍💻 Author
 
-AI Engineer focused on building real-world AI solutions combining research and production-level systems.
+* Yousef Alabri  
+* Talal Alshehri 
+* Omar Sahhari
+* Osama Raed
+
